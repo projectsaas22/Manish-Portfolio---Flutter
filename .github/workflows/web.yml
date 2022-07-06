@@ -13,4 +13,4 @@ jobs:
       - uses: subosito/flutter-action@v1
       - uses: bluefireteam/flutter-gh-pages@v7
         with:
-          baseHref: /Manish_Portfolio_Flutter_WEB/
+          baseHref: https://newtheme.manish60.com.np/
