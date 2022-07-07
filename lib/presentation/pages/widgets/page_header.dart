@@ -29,7 +29,7 @@ class _PageHeaderState extends State<PageHeader>
       vsync: this,
       duration: Duration(milliseconds: 1500),
     )..repeat();
-   
+
     animation = Tween<Offset>(
       begin: Offset(0, 0.5),
       end: Offset(0, -0.5),

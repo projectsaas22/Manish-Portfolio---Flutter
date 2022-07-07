@@ -123,11 +123,11 @@ class ContentBuilder extends StatelessWidget {
                       ),
                       SpaceW16(),
                       Expanded(
-                        child:  AnimatedTextSlideBoxTransition(
-                        controller: controller,
-                        text: section,
-                        textStyle: sectionStyle ?? defaultSectionStyle,
-                      ),
+                        child: AnimatedTextSlideBoxTransition(
+                          controller: controller,
+                          text: section,
+                          textStyle: sectionStyle ?? defaultSectionStyle,
+                        ),
                       ),
                     ],
                   ),
@@ -140,10 +140,10 @@ class ContentBuilder extends StatelessWidget {
                     children: [
                       heading ??
                           AnimatedTextSlideBoxTransition(
-                        controller: controller,
-                        text: title!,
-                        textStyle: titleStyle ?? defaultTitleStyle,
-                      ),
+                            controller: controller,
+                            text: title!,
+                            textStyle: titleStyle ?? defaultTitleStyle,
+                          ),
                       SpaceH20(),
                       body,
                       footer ?? Empty(),
