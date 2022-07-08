@@ -35,8 +35,8 @@ class ImagePath {
   static const String ABOUT_PORTRAIT = "$imageDir/about_portrait.png";
   static const String DEV_ABOUT = "$imageDir/dev-about.jpg";
   static const String DEV_MEDITATE = "$imageDir/dev_meditate.png";
-  
-  static const String DEV_SKILLS = "$imageDir/skills.png";
+
+  static const String DEV_SKILLS = "$imageDir/skills_circle.png";
   static const String GOOGLE_PLAY = "$imageDir/google_play.png";
 
   // Certifications
@@ -135,7 +135,7 @@ class ImagePath {
   // Aerium
   static const String AERIUM_COVER =
       "$projectsDir/aerium-v1/portfolio_cover.png";
-  
+
   static const String AERIUM_DESIGN_2 =
       "$projectsDir/aerium-v1/portfolio_design_2.png";
   static const String AERIUM_DESIGN_3 =
