@@ -54,7 +54,7 @@ class ImagePath {
   // Projects
 
   // Nimbus
-  static const String NIMBUS_COVER = "$projectsDir/nimbus/todo_cover.PNG";
+  static const String NIMBUS_COVER = "$projectsDir/nimbus/todo.PNG";
   static const String NIMBUS = "$projectsDir/nimbus/nimbus.jpg";
 
   // Foodybite
