@@ -288,26 +288,40 @@ class Data {
 
   static List<CertificationData> certificationData = [
     CertificationData(
-      title: StringConst.ASSOCIATE_ANDROID_DEV,
-      url: StringConst.ASSOCIATE_ANDROID_DEV_URL,
-      image: ImagePath.ASSOCIATE_ANDROID_DEV,
+      title: StringConst.DATA_STRUCTURES_ALGORITHM,
+      url: StringConst.DATA_STRUCTURES_ALGORITHM_URL,
+      image: ImagePath.DATA_STRUCTURES_ALGORITHM,
       imageSize: 0.325,
-      awardedBy: StringConst.GOOGLE,
+      awardedBy: StringConst.COURSERA,
     ),
     CertificationData(
-      title: StringConst.DATA_SCIENCE,
-      url: StringConst.DATA_SCIENCE_CERT_URL,
-      image: ImagePath.DATA_SCIENCE_CERT,
+      title: StringConst.MATHEMATICAL_THINKING,
+      url: StringConst.MATHEMATICAL_THINKING_URL,
+      image: ImagePath.MATHEMATICAL_THINKING,
       imageSize: 0.325,
-      awardedBy: StringConst.UDACITY,
+      awardedBy: StringConst.COURSERA,
     ),
     CertificationData(
-      title: StringConst.ANDROID_BASICS,
-      url: StringConst.ANDROID_BASICS_CERT_URL,
-      image: ImagePath.ANDROID_BASICS_CERT,
+      title: StringConst.GAME_THEORY,
+      url: StringConst.GAME_THEORY_URL,
+      image: ImagePath.GAME_THEORY,
       imageSize: 0.325,
-      awardedBy: StringConst.UDACITY,
+      awardedBy: StringConst.COURSERA,
     ),
+    CertificationData(
+      title: StringConst.FINTECH,
+      url: StringConst.FINTECH_URL,
+      image: ImagePath.FINTECH,
+      imageSize: 0.325,
+      awardedBy: StringConst.COURSERA,
+    ),
+    CertificationData(
+      title: StringConst.JAVA_PROGRAMMING,
+      url: StringConst.JAVA_PROGRAMMING_URL,
+      image: ImagePath.JAVA_PROGRAMMING,
+      imageSize: 0.325,
+      awardedBy: StringConst.SOLOLEARN,
+    )
   ];
 
   static List<ExperienceData> experienceData = [

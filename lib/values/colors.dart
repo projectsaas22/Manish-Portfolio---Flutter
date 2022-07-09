@@ -35,13 +35,13 @@ class AppColors {
   static const Color nimbusSelectedNavTitle = Color(0xFF00695C);
 
   static const Color foodybite = Color(0xFF6B79F6);
-  static const Color foodybiteNavTitle = Color(0xFFB2B9CF);
+  static const Color foodybiteNavTitle = Color(0xFF006064);
   static const Color foodybiteSelectedNavTitle = Color(0xFF212455);
   static const Color foodybiteAppLogo = Color(0xFF808BF6);
 
   static const Color flutter_catalog = Color(0xFFB71C1C);
-  static const Color flutterCatalogSelectedNavTitle = Color(0xFFC62828);
-  static const Color flutterCatalogAppLogo = Color(0xFFD32F2F);
+  static const Color flutterCatalogSelectedNavTitle = Color(0xFFFAFAFA);
+  static const Color flutterCatalogAppLogo = Color(0xFFFAFAFA);
 
   static const Color login_catalog = Color(0xFF3E2723);
   static const Color loginCatalogNavTitle = Color(0xFF242424);
@@ -54,9 +54,9 @@ class AppColors {
   static const Color roamAppLogo = Color(0xFF512DA8);
 
   static const Color drop = Color(0xFF242424);
-  static const Color dropNavTitle = Color(0xFFFAFAFA);
+  static const Color dropNavTitle = Color(0xFF03A9F4);
   static const Color dropSelectedNavTitle = Color(0xFFFAFAFA);
-  static const Color dropAppLogo = Color(0xFFFAFAFA);
+  static const Color dropAppLogo = Color(0xFF03A9F4);
 
   static const Color aerium_v1 = Color(0xFF0E1319);
   static const Color aeriumV1NavTitle = Color(0xFF162726);

@@ -192,15 +192,35 @@ class StringConst {
       "https://graduation.udacity.com/confirm/7CGEJAFR";
   static const String ANDROID_BASICS_CERT_URL =
       "https://graduation.udacity.com/confirm/9VTDRN5K";
+  static const String DATA_STRUCTURES_ALGORITHM_URL =
+      "https://www.coursera.org/account/accomplishments/certificate/8MEYUMB6W33C";
+  static const String MATHEMATICAL_THINKING_URL =
+      "https://www.coursera.org/account/accomplishments/certificate/D977VNVVN5EQ";
+  static const String FINTECH_URL =
+      "https://www.coursera.org/account/accomplishments/certificate/VPRQY9FDBGUV";
+  static const String GAME_THEORY_URL =
+      "https://www.coursera.org/account/accomplishments/certificate/JME77AFAKKXG";
+  static const String JAVA_PROGRAMMING_URL =
+      "https://www.sololearn.com/certificates/course/en/1831635/1068/landscape/png";
 
   //AwardedBy
   static const String GOOGLE = "Google";
   static const String UDACITY = "Udacity";
+  static const String COURSERA = "Coursera";
+  static const String SOLOLEARN = "Sololearn";
 
   //CertificationType
   static const String ASSOCIATE_ANDROID_DEV = "Associate Android Developer";
   static const String DATA_SCIENCE = "Data Science";
   static const String ANDROID_BASICS = "Android Basics";
+  static const String DATA_STRUCTURES_ALGORITHM =
+      "Data Structures and Performances";
+  static const String MATHEMATICAL_THINKING =
+      "Introduction to Mathematical Thinking";
+  static const String FINTECH =
+      "Fintech: Foundations, Payments, and Regulations";
+  static const String GAME_THEORY = "Game Theory";
+  static const String JAVA_PROGRAMMING = "Java Programming";
 
   //Experience
   static const String CURRENT_MONTH_YEAR = "May 2020 - Current";
