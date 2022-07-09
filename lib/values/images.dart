@@ -59,7 +59,7 @@ class ImagePath {
 
   // Foodybite
   static const String FOODY_BITE_COVER =
-      "$projectsDir/foodybite/article_cover.png";
+      "$projectsDir/foodybite/article_cover.PNG";
   static const String FOODY_BITE_HOME =
       "$projectsDir/foodybite/foodybite_home.png";
   static const String FOODY_BITE_STARTING_FLOW =
@@ -73,7 +73,7 @@ class ImagePath {
 
   // Portfolio Site V2
   static const String AERIUM_V2_COVER =
-      "$projectsDir/aerium-v2/article_cover.png";
+      "$projectsDir/aerium-v2/article_cover.PNG";
   static const String AERIUM_V2_OVERALL = "$projectsDir/aerium-v2/overall.jpg";
   static const String AERIUM_V2_FIRST = "$projectsDir/aerium-v2/first.jpg";
   static const String AERIUM_V2_TYPOGRAPHY =
@@ -81,7 +81,7 @@ class ImagePath {
   static const String AERIUM_V2_LAST = "$projectsDir/aerium-v2/last.jpg";
 
   // Drop
-  static const String DROP_COVER = "$projectsDir/drop/periodic_cover.png";
+  static const String DROP_COVER = "$projectsDir/drop/periodic_cover.PNG";
   static const String DROP_DESC = "$projectsDir/drop/drop_description.gif";
   static const String DROP_EASY_ACCESS =
       "$projectsDir/drop/drop_easy_access.gif";
@@ -127,7 +127,7 @@ class ImagePath {
 
   // Login Catalog
   static const String LOGIN_CATALOG_COVER =
-      "$projectsDir/login_catalog/resistance_cover.png";
+      "$projectsDir/login_catalog/resistance_cover.PNG";
   static const String LOGIN_DESIGN_4 = "$projectsDir/login_catalog/login4.png";
   static const String LOGIN_DESIGN_5 = "$projectsDir/login_catalog/login5.png";
   static const String LOGIN_DESIGN_7 = "$projectsDir/login_catalog/login7.jpeg";
