@@ -7,7 +7,7 @@ class ImagePath {
   static const String screenshotsDir = "assets/screenshots";
 
   //Images
-  static const String DEV = "$imageDir/david_legend.png";
+  static const String DEV = "$imageDir/manish_black.jpg";
   // CV
   static const String CV = "$imageDir/Manish_CV_1.pdf";
 
@@ -34,7 +34,7 @@ class ImagePath {
   static const String MEDITATION = "$imageDir/meditation.png";
   static const String ABOUT_PORTRAIT = "$imageDir/about_portrait.png";
   static const String DEV_ABOUT = "$imageDir/dev-about.jpg";
-  static const String DEV_MEDITATE = "$imageDir/dev_meditate.png";
+  static const String DEV_MEDITATE = "$imageDir/manish.png";
 
   static const String DEV_SKILLS = "$imageDir/skills_circle.png";
   static const String GOOGLE_PLAY = "$imageDir/google_play.png";
@@ -61,7 +61,7 @@ class ImagePath {
       "$projectsDir/aerium-v2/article_cover.PNG";
 
   // Drop
-  static const String DROP_COVER = "$projectsDir/periodic/periodic_cover.PNG";
+  static const String DROP_COVER = "$projectsDir/periodic/periodic_cover.png";
 
   // Roam
   static const String ROAM_COVER = "$projectsDir/phypro/phypro_cover.png";
