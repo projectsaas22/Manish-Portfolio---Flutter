@@ -64,13 +64,13 @@ flutter:
     - assets/images/projects/
     - assets/images/projects/aerium-v1/
     - assets/images/projects/aerium-v2/
-    - assets/images/projects/drop/
-    - assets/images/projects/flutter_catalog/
-    - assets/images/projects/foodybite/
-    - assets/images/projects/login_catalog/
-    - assets/images/projects/nimbus/
+    - assets/images/projects/article/
+    - assets/images/projects/rajgyan/
+    - assets/images/projects/phypro/
+    - assets/images/projects/resistance/
+    - assets/images/projects/todo/
     - assets/images/projects/otp_package/
-    - assets/images/projects/roam/
+    - assets/images/projects/periodic/
     - assets/images/projects/outfitr/
     - assets/screenshots/
   #    - assets/screenshots/

@@ -41,7 +41,7 @@ class AppColors {
 
   static const Color flutter_catalog = Color(0xFFB71C1C);
   static const Color flutterCatalogSelectedNavTitle = Color(0xFFFAFAFA);
-  static const Color flutterCatalogAppLogo = Color(0xFFFAFAFA);
+  static const Color flutterCatalogAppLogo = Color(0xFFB71C1C);
 
   static const Color login_catalog = Color(0xFF3E2723);
   static const Color loginCatalogNavTitle = Color(0xFF242424);

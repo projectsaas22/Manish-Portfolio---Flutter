@@ -172,8 +172,8 @@ class StringConst {
   static const String LINKED_IN_URL =
       "https://www.linkedin.com/in/manishacharya60/";
   static const String TWITTER_URL = "https://twitter.com/DavidLegend47";
-  static const String INSTAGRAM_URL =
-      "https://www.instagram.com/david_legend_47";
+  static const String INSTAGRAM_URL = "https://www.instagram.com/haha_manish/";
+  static const String BLOG_URL = "https://articles.manish60.com.np/";
   static const String TELEGRAM_URL = "https://t.me/DavidLegend";
 
   //Contacts
@@ -184,6 +184,7 @@ class StringConst {
   static const String INSTAGRAM = "Instagram";
   static const String TELEGRAM = "Telegram";
   static const String GITHUB = "Github";
+  static const String BLOG = "Blog";
 
   //Certificate Urls
   static const String ASSOCIATE_ANDROID_DEV_URL =

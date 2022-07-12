@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
       vsync: this,
       duration: Animations.slideAnimationDurationLong,
     );
-   
+
     super.initState();
   }
 
@@ -117,7 +117,6 @@ class _HomePageState extends State<HomePage> with TickerProviderStateMixin {
           parent: AlwaysScrollableScrollPhysics(),
         ),
         children: [
-          
           HomePageHeader(
             controller: _slideTextController,
             scrollToWorksKey: key,
