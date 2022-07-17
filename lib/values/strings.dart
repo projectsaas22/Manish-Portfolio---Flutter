@@ -4,7 +4,7 @@ class StringConst {
   //strings
   static const String APP_NAME = "Manish Acharya Portfolio";
   static const String APP_TITLE = "Manish Acharya Portfolio";
-  static const String SITE_URL = "https://davidcobbina.com";
+  static const String SITE_URL = "https://manish60.com.np";
 
   static const String HOME = "Home";
   static const String ABOUT = "About";
@@ -47,7 +47,7 @@ class StringConst {
   static const String MESSAGE_ERROR_MSG =
       "* Please enter something to send this form";
   static const String SEND_MESSAGE = "Send Message";
-  static const String COPYRIGHT = "©  2021  Built by  $DEV_NAME,";
+  static const String COPYRIGHT = "©  2022  Built by  $DEV_NAME,";
   static const String DESIGNED_BY = "Designed by Julius G.";
   static const String DESIGN_LINK =
       "https://www.behance.net/gallery/63574251/Personal-Portfolio-Website-Design";
