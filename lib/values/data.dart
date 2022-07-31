@@ -454,7 +454,7 @@ class Projects {
     isLive: true,
     technologyUsed: StringConst.PYTHON,
     gitHubUrl: StringConst.ROAM_GITHUB_URL,
-    playStoreUrl: StringConst.ROAM_WEB_URL,
+    webUrl: StringConst.ROAM_WEB_URL,
   );
   static ProjectItemData LOGIN_CATALOG = ProjectItemData(
     title: StringConst.LOGIN_CATALOG,
